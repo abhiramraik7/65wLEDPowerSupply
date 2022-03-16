@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Top.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=12V Supply|SchDesignator=12V Supply|FileName=12V Powersupply.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=12V Powersupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=LED Driver|SchDesignator=LED Driver|FileName=LED Driver.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=LED Driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
